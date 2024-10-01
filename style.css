@@ -19,3 +19,11 @@
     align-items: center;
     z-index: 100;
 }
+
+.navbar a {
+    font-size: 16px;
+    color: #e4e4e4;
+    text-decoration: none;
+    font-weight: 500;
+    margin-right: 30px;
+}
