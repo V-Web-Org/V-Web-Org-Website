@@ -21,6 +21,7 @@
 }
 
 .navbar a {
+    position: relative;
     font-size: 16px;
     color: #e4e4e4;
     text-decoration: none;
